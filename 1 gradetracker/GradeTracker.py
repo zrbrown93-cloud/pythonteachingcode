@@ -1,5 +1,5 @@
 '''
-This is a grade tracking program - think through the goal up front- what is the task and design?
+This is a grade tracking program  - think through the goal up front- what is the task and design?
 needs to enable several basic functions for faculty members.
 This comment in triple quotes is called a docstring.
 It is text that explains what a code file (aka module) or function does.
